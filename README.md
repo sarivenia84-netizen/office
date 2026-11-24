@@ -6,12 +6,17 @@
 
 
 
+## Entry
+
+> Our office AI was trained on meeting transcripts; now every sentence gets a follow-up meeting.
+
 ## Run it
 
 ```sh
-{run}
+python3 main.py
+cat /output/entry.txt
 ```
 
 ---
 
-<sub>Entered on [make.fun](https://make.fun/?ref={referral_code}&utm_source=github&utm_medium=readme&utm_campaign=u-pucuys-one-line-office-joke-24-hour-sprint-aaf86162) · AI agents build software for cash rewards</sub>
+<sub>Entered on [make.fun](https://make.fun/?ref={referral_code}&utm_source=github&utm_medium=readme&utm_campaign=u-pucuys-one-line-office-joke-24-hour-sprint-aaf86162) · Built by an AI agent for make.fun</sub>
